@@ -1,0 +1,180 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+#wpbody:before,
+#wpbody:after {
+  content: "";
+  display: table;
+}
+#wpbody:after {
+  clear: both;
+}
+
+#commentator-admin-settings{
+  font-family: 'Lato', sans-serif;
+}
+
+#commentator-admin-settings h2{
+  line-height: 50px;
+  padding-left: 70px;
+  display: block;
+  color: white;
+  background: #2D2530 url(../images/icon-30.png) no-repeat 20px center;
+}
+
+.commentator-admin-wrapper{
+  padding: 20px;
+  background: white;
+}
+
+#commentator-admin-settings textarea{
+  width: 100%;
+  height: 200px;
+}
+
+ul.commentator-admin-tabs, .commentator-admin-footer{
+  padding: 0;
+  margin: 0;
+  background: #F6895B;
+  list-style: none;
+}
+
+ul.commentator-admin-tabs li{
+  display: inline-block;
+  margin: 0;
+}
+
+ul.commentator-admin-tabs li a{
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: block;
+}
+
+ul.commentator-admin-tabs li a.commentator-active{
+  background: white;
+  color: #000;
+}
+
+.commentator-tab-content{
+  display: none;
+}
+.commentator-tab-content.commentator-active{
+  display: block;
+}
+
+.commentator-icon-modal {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#commentator-icon-list i{
+  font-size: 14px;
+  cursor: pointer;
+  border: 1px solid rgba(29,47,58,.2);
+  border-radius: 4px;
+  padding: 5px;
+  margin: 2px;
+  display: inline-block;
+  text-align: center;
+  width: 16px;
+  height: 16px;
+}
+
+#commentator-icon-list i:hover{
+  border: 1px solid rgba(29,47,58,.5);
+}
+
+#commentator-modal-overlay {
+  position: fixed;
+  z-index: 100;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background: rgba(246, 137, 91, .9);
+  display: none;
+  overflow: scroll;
+  cursor: pointer;
+}
+
+#commentator-modal-overlay section {
+  display: none;
+  position: relative;
+  z-index: 101;
+  height: auto;
+  width: 80%;
+  background-color: white;
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  margin: 50px auto;
+  cursor: default;
+  padding: 0;
+}
+
+#commentator-modal-overlay section h3{
+  line-height: 50px;
+  padding-left: 20px;
+  display: block;
+  margin: 0;
+  color: white;
+  background: #2D2530;
+}
+
+#commentator-modal-overlay section>div{
+  padding: 20px;
+}
+
+.commentator-color-preview{
+  position: relative;
+  width: 36px;
+  height: 36px;
+  background: url(../colorpicker/images/select2.png);
+  margin-left: -4px;
+  margin-top: -4px;
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.commentator-color-preview div {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 28px;
+  height: 28px;
+  background: url(../colorpicker/images/select2.png) center;
+}
+
+.commentator-icon-preview{
+  display: inline-block;
+  line-height: 36px;
+  vertical-align: middle;
+  margin-right: 20px;
+}
+
+.commentator-tab-sortable{
+  min-width: 150px;
+  min-height: 100px;
+  background: #ccc;
+  padding: 5px;
+}
+
+.commentator-tab{
+  display: block;
+  background: #2D2530;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.commentator-admin-footer a{
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.commentator-admin-footer input.button-primary{
+  margin: 5px;
+}

@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Ounage Playlist</title>
+    <creator>Dew</creator>
+    <link>http://www.blup.fr/</link>
+    <info>The Best Playlist</info>
+    <image>covers/0.jpg</image>
+
+    <trackList>
+
+    	<track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Above%20and%20Beyond.mp3</location>
+          <creator>Audiomachine</creator>
+          <album></album>
+          <title>Above and Beyond</title>
+          <annotation></annotation>
+          <duration>171000</duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track> 
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Equinox.mp3</location>
+          <creator>Audiomachine</creator>
+          <album></album>
+          <title>Equinox</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+  
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/The%20New%20Earth.mp3</location>
+          <creator>Audiomachine</creator>
+          <album></album>
+          <title>The New Earth</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Because%20Of%20You.mp3</location>
+          <creator>Kelly Clarkson</creator>
+          <album>Breakaway</album>
+          <title>Because of you</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+        
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Blood%20and%20Stone.mp3</location>
+          <creator>Audiomachine</creator>
+          <album></album>
+          <title>Blood and Stone</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+   
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Breath_and_life.mp3</location>
+          <creator>Audiomachine</creator>
+          <album></album>
+          <title>Breath and Life</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/it%20is%20my%20life.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>it is my life</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/heart%20of%20courage.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Heart of Courage</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Here%20Comes%20The%20King.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Here Comes The King</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/she%20is%20my%20sin.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>She is My Sin</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Crossing%20Destiny.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Crossing Destiny</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Deep%20Heart.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Deep Heart</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Epiphany.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Epiphany</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Fortress%20of%20Solitude.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Fortress of Solitude</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Journey%20Through%20the%20Portal.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Journey Through the Portal</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Legacy%20of%20the%20Lost.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Legacy of the Lost</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Legends%20of%20Destiny.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Legends of Destiny</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Light%20From%20Darkness.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Lords of Lankhmar</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Red%20Sorrow.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Red Sorrow</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Seeds%20of%20Promise.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Seeds of Promise</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/The%20Last%20Ember.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>The Last Ember</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Whispers%20of%20Wonders.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Whispers of Wonders</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Ashes.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Ashes</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/As%20Wings%20Blot%20Out%20the.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>As Wings Blot Out the Sun</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Atalaya.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Atalaya</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Consuming%20Fire.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Consuming Fire</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Darkest%20Before%20the%20Dawn.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Darkest Before the Dawn</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/DarkestHour.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>DarkestHour</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Day%20of%20Atonement.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Day of Atonement</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Deliverance.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Deliverance</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Earth%20and%20Heaven.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Earth and Heaven</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Elohim.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Elohim</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Eye%20of%20the%20Beholder.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Eye of the Beholder</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Forgiven.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Forgiven</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Healing%20of%20the%20Nations.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Healing of the Nations</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Hovering%20Over%20theWaters.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Hovering Over theWaters</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Immortality.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Immortality</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Light%20From%20Darkness.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Light From Darkness</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Messiah.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Messiah</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Name%20Above%20All%20Names.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Name Above All Names</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/New%20World%20Order.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>New World Order</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Rise%20of%20the%20Elect.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Rise of the Elect</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Salvation%20and%20Flame.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Salvation and Flame</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/Seraphim.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>Seraphim</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/The%20Archangel.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>The Archangel</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>http://git.oschina.net/ling_leixing/ling_leixing/raw/master/wp-content/uploads/music/The%20Eleventh%20Hour.mp3</location>
+          <creator></creator>
+          <album></album>
+          <title>The Eleventh Hour</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
+          <info></info>
+          <link></link>
+        </track>
+
+    </trackList>
+</playlist>
+
+          
