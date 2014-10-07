@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:  SX User Name Security
-Version:      2.2
+Version:      2.3
 Plugin URI:   http://www.seomix.fr
 Description:  Prevents WordPress from showing User login and User ID. "User Name Security" filters User Nicename, Nickname and Display Name in order to avoid showing real User Login. This plugin also filters the body_class function to remove User ID and Nicename in it.
 Availables languages: en_EN, fr_FR
@@ -202,7 +202,7 @@ function seomix_sx_security_login_detector( $login ) {
   */
 add_filter( 'pre_user_display_name', 'seomix_sx_security_name_filter' );
 add_filter( 'pre_user_nickname', 'seomix_sx_security_name_filter' );
-add_filter( 'pre_user_nicename', 'seomix_sx_security_name_filter' );
+// add_filter( 'pre_user_nicename', 'seomix_sx_security_name_filter' );
 function seomix_sx_security_name_filter( $name )
 {
 	global $seomix_var_new_login;
@@ -408,7 +408,7 @@ function seomix_sx_alert_users_left()
 	if ( current_user_can( 'edit_users' ) && $ids = get_transient( 'sx_users' ) ) {
 		$bar = '<div id="sx-bar" class="hidden"><div id="sx-bar-percent"></div></div>';
 		$clic = 'users.php' != $GLOBALS['pagenow'] ? sprintf( __( ' <a href="%s">Visit the users\' page</a>.', 'user-name-security' ), admin_url( 'users.php' ) ) : '';
-		echo '<div class="error seomix_sx hide-if-no-js"><p><b>SX User Name Security:</b> ' . sprintf( _n( 'There is %d user left to treat.%s', 'There is %d users left to treat.%s', count( $ids ), 'user-name-security' ), count( $ids ), $clic ) . $bar . '</p></div>';
+		echo '<div class="error seomix_sx hide-if-no-js"><p><b>SX User Name Security:</b> ' . sprintf( _n( 'There is %d user left to treat. <strong>Warning</strong> : it will change every "Display Name" for all users in order to prevent showing their real logins, but it won\'t change their URL. In order to do this, we recommand you to install "SF Author Url Control".%s', 'There is %d users left to treat.%s', count( $ids ), 'user-name-security' ), count( $ids ), $clic ) . $bar . '</p></div>';
 		echo '<div class="error hide-if-js"><p><b>SX User Name Security:</b> ' . __( 'This plugin requires JavaScript to work well.', 'user-name-security' ) . '</p></div>';
 	}
 }
@@ -510,5 +510,23 @@ function seomix_sx_js_for_users()
 		</script>
 		<?php
 	}
+}
+
+/**
+*
+* Add Display Name to the WordPress User List Admin Page
+*/
+add_filter('manage_users_columns', 'sx_add_user_id_column');
+function sx_add_user_id_column($columns) {
+    $columns['displayname'] = 'Display Name';
+    return $columns;
+}
+ 
+add_action('manage_users_custom_column',  'sx_show_user_id_column_content', 10, 3);
+function sx_show_user_id_column_content($value, $column_name, $user_id) {
+    $user = get_userdata( $user_id );
+	if ( 'displayname' == $column_name )
+		return $user->display_name;
+    return $value;
 }
 //EOF.

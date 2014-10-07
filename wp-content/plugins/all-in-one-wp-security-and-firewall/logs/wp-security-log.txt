@@ -1,2 +1,0 @@
-[09/14/2014 6:29 PM] - FAILURE : Error inserting record into ling_aiowps_login_activity
-[09/23/2014 4:35 PM] - FAILURE : Error inserting record into ling_aiowps_login_activity

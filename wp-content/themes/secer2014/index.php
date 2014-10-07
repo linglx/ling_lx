@@ -22,9 +22,3 @@
 	</div>
 </div>
 <?php get_sidebar(); get_footer(); ?>
-
-<span style="float:left">
-<script type="text/javascript">
-    /*468*60 创建于 2014-08-14*/
-    var cpro_id = "u1660259";
-</script>

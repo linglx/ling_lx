@@ -2,7 +2,7 @@
 <footer class="footer">
     <div class="footer-inner">
         <div class="copyright pull-left">
-         <a href="http://yunpan.cn/Q778SaELp7IXs" title="360云盘">全站资源</a> 提取码 a696 <a href="http://pan.baidu.com/s/1qW2UxmW" title="百度云">备份地址</a> 全部收集自互联共享
+        <span style="color: #339966;"><a style="color: #339966;" href="http://yunpan.cn/Q778SaELp7IXs" target="_blank">全站资源</a></span> 提取码 <span style="color: #ff0000;">a696</span> <span style="color: #339966;"><a style="color: #339966;" href="http://pan.baidu.com/s/1qW2UxmW" target="_blank">备份地址</a></span> 全部收集自互联共享                                                                                                                                                                                                                        <span style="color: #339966;"><a style="color: #339966;" href="http://ling_leixing.jd-app.com/wp-login.php?action=register" target="_blank">注册</a></span>
         </div>
         <div class="trackcode pull-right">
             <?php if( dopt('d_track_b') ) echo dopt('d_track'); ?>
